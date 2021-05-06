@@ -1,0 +1,3 @@
+include ':zdjsystemsiplibrary'
+include ':app'
+rootProject.name = "SipDemo"
